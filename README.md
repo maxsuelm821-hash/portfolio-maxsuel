@@ -21,3 +21,6 @@ Abra `index.html` no navegador.
 
 ## Personalização
 Edite os textos em `index.html`. Para trocar a foto, substitua `assets/maxsuel-perfil.png` por outra imagem mantendo o mesmo nome (ou atualize o caminho no HTML).
+
+## Identidade visual (atualização)
+Paleta monocromática e faixa horizontal com a palavra “PORTFOLIO” entre a apresentação inicial e a seção Sobre. A palavra permanece centralizada enquanto as letras alternam sutilmente entre estilos sans-serif e serifados; a animação pausa ao passar o mouse e respeita a preferência do sistema por movimento reduzido.
